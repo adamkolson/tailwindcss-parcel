@@ -1,1 +1,3 @@
 # tailwindcss-parcel
+
+Added `prettier`
